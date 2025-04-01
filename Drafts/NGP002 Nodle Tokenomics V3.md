@@ -36,9 +36,9 @@ And finally, this proposal reinforces a basic governance model, as outlined in [
 
 ### Token Supply and Rewards:
 
-### Current Rewards At the time of writing, the accumulated inflation of the token supply for the year leading to the first quarter of 2024 was calculated through the following formula:
+Current Rewards At the time of writing, the accumulated inflation of the token supply for the year leading to the first quarter of 2024 was calculated through the following formula:
 
-Rannual = (R1+1)(R2+1)(R3+1)(R4+1) - 1    (formula-1)
+Rannual = (R1+1)(R2+1)(R3+1)(R4+1) - 1 
 
 in which Ri is the planned quarterly rate for the i’th quarter of that year. The oracle follows the planned rates by around 90% to 95% accuracy (there is intentionally a bit of gap between the plan and the actual rewards so the oracle can retry failed rewards).
 
