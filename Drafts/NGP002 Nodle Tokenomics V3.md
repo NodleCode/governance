@@ -118,4 +118,4 @@ This document proposes deploying Smart Envelopes on-chain, requiring a small amo
 
 **On-chain service audit:** Each on-chain contract will need to be audited and tested as per best practice.
 
-**Token burning:** Burning volume and thus its impact on the ****total supply are based on network usage. Rapid adoption of network services (and the inverse) may impact total supply and may require rapid adjustment through an on-chain governance vote.
+**Token burning:** Burning volume and thus its impact on the total supply are based on network usage. Rapid adoption of network services (and the inverse) may impact total supply and may require rapid adjustment through an on-chain governance vote.
