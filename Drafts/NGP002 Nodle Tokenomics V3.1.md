@@ -1,6 +1,6 @@
-# ![][image1]
-
 # NGP002: Nodle Tokenomics V3.1
+
+![NGP002](https://github.com/user-attachments/assets/2b7a880a-0ee0-45bc-8896-7cffe9b3c135)
 
 ## Abstract
 
